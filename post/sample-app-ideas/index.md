@@ -283,6 +283,7 @@ There are amazing public APIs you can use:
 - [The Twitter API](https://developer.twitter.com/en/docs)
 - [The YouTube API](https://developers.google.com/youtube/)
 - [Worldwide Holidays API](https://calendarific.com/api-documentation)
+- [Foreign exchange rates API](https://currencyscoop.com/api-documentation)
 
 ### Image placeholders for your sample projects
 
